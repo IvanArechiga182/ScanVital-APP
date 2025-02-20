@@ -1,0 +1,19 @@
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+# Visual Studio / JetBrains Rider
+.vscode/
+*.csproj
+*.sln
+*.user
+*.unityproj
+# Configuración local de Unity
+*.pidb
+*.suo
+*.userprefs
+*.booproj
